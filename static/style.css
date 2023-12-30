@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+}
+
+button {
+    padding: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#colorSquare {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    border: 1px solid #000;
+}
